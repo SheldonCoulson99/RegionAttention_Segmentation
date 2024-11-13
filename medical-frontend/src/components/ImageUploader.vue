@@ -487,9 +487,9 @@ export default {
     // download single result
     async downloadSingleResult(index, resultNumber) {
       const result = this.resultPreview[index];
-      const backgroundUrl = this.resultPreview[index].original_resultUrl;  // 原始背景图像
-      const overlayUrl = resultNumber === 1 ? result.pre_resultUrl : result.over_resultUrl;  // 分割后的叠加图像
-      const overlayOpacity = resultNumber === 1 ? result.opacity1 : result.opacity2;  // 透明度控制
+      const backgroundUrl = this.resultPreview[index].original_resultUrl;
+      const overlayUrl = resultNumber === 1 ? result.pre_resultUrl : result.over_resultUrl; 
+      const overlayOpacity = resultNumber === 1 ? result.opacity1 : result.opacity2; 
       
       const backgroundImage = new Image();
       const overlayImage = new Image();
