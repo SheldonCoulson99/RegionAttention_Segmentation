@@ -72,13 +72,13 @@ capstone-project-2024-t3-9900w17bcloudv created by GitHub Classroom
 ```
 
 - Backend service:
-  -     Maps Django port `8000` to the host’s port `8000`.
+  - Maps Django port `8000` to the host’s port `8000`.
   - Mounts the backend directory for live updates in development.
   - Waits for the frontend service for any Requests.
 - Frontend service:
   - Maps Vite development server port 5173 to the host's port 5173, using Node.js 16 as the base image
   - Mounts the frontend directory for hot reloading during development and communicates with the backend service through port 8000
-  -     Provides an interactive web interface for medical image segmentation with features including multiple image processing, model selection, and result visualization
+  - Provides an interactive web interface for medical image segmentation with features including multiple image processing, model selection, and result visualization
 
 ## 2. How to build and run the containers:
 
