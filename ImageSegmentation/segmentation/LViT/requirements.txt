@@ -1,0 +1,53 @@
+absl-py
+albumentations
+
+cached-property
+certifi
+contextlib2
+cssselect
+cycler
+decorator
+einops
+entmax
+
+imageio
+imgaug
+joblib
+kiwisolver
+matplotlib
+# mkl-fft
+# mkl-random
+# mkl-service
+ml-collections
+munch
+networkx
+# numpy
+opencv-python
+opencv-python-headless
+# pandas
+Pillow
+pretrainedmodels
+protobuf
+pyparsing
+pyquery
+python-dateutil
+pytz
+# PyWavelets
+# pyyaml
+scikit-image
+scikit-learn
+scipy
+seaborn
+Shapely
+SimpleITK
+tensorboardX
+threadpoolctl
+thop
+tifffile
+timm
+torch
+torchvision
+torchinfo
+tqdm
+xlrd
+yacs
