@@ -20,9 +20,15 @@ capstone-project-2024-t3-9900w17bcloudv created by GitHub Classroom
 
 ## 1. Prerequisites:
 
-### 1) Docker: Use the newest version of Docker. It can be downloaded from this link: https://www.docker.com/
+### 1) Pre-Trained Models: Due to the excessive size of the pre-trained model, they can't be upload to GitHub. So, [here is the link](https://drive.google.com/drive/folders/1C7sCpqvhX-r5zkz1Z06PvnTGbn66qa8Q?usp=drive_link) to download them from Google Drive.
+### Pre-trained model for LViT needs to be placed at this location: `ImageSegmentation/segmentation/LViT/MoNuSeg/Test_session_MoNuSeg_lvit/models/`
+### Pre-trained model for ISIC18-UDTransNet needs to be placed at this location: `ImageSegmentation/segmentation/UDTransNet/ISIC18_kfold/UDTransNet/Test_session_ISIC18/models/fold_1/`
+### Pre-trained model for MoNuSeg-UDTransNet needs to be placed at this location: `ImageSegmentation/segmentation/UDTransNet/MoNuSeg_kfold/UDTransNet/Test_session_MoNuSeg/models/fold_1/`
+### Pre-trained model for DCSAU-Net needs to be placed at this location: `ImageSegmentation/segmentation/DCSAU-Net/save_models/`
 
-### 2) Ensure that the project file structure is precisely as shown below.
+### 2) Docker: Use the newest version of Docker. It can be downloaded from this link: https://www.docker.com/
+
+### 3) Ensure that the project file structure is precisely as shown below.
 
 ### The directory is structured in a hierarchical manner, as follows:
 
