@@ -21,7 +21,10 @@ capstone-project-2024-t3-9900w17bcloudv created by GitHub Classroom
 
 ## 1. Prerequisites:
 
-### 1) Pre-Trained Models: Due to the huge size of the pre-trained model, they can't be uploaded to GitHub. So, [here is the link](https://drive.google.com/drive/folders/1C7sCpqvhX-r5zkz1Z06PvnTGbn66qa8Q?usp=drive_link) to download them from Google Drive.
+### 1) Pre-Trained Models: Due to the huge size of the pre-trained model, they can't be uploaded to GitHub. 
+### So, the solution is putting them on my Google Drive, [here is the link](https://drive.google.com/drive/folders/1C7sCpqvhX-r5zkz1Z06PvnTGbn66qa8Q?usp=drive_link) to download them from my Google Drive.
+
+### If the link is not working, feel free to email me at z5499630@ad.unsw.edu.au.
 
 ### Pre-trained model for LViT needs to be placed at this location: `ImageSegmentation/segmentation/LViT/MoNuSeg/Test_session_MoNuSeg_lvit/models/`
 
