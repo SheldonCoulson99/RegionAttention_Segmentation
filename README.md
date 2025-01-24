@@ -1,22 +1,9 @@
-# capstone-project-2024-t3-9900w17bcloudv
-
-capstone-project-2024-t3-9900w17bcloudv created by GitHub Classroom
-
-# COMP[39]900
-
-## 2024, Term 3
-
-## 9900W17B_CloudV
-
-## P16 - Region-attention based medical image segmentation
+# P16 - Region-attention based medical image segmentation
 
 | Name         | zID      | Role                                                                         | Email                   |
 | ------------ | -------- | ---------------------------------------------------------------------------- | ----------------------- |
-| Boyang Peng  | z5499630 | Scrum master, Model designer, Model developer, UI Backend, System deployment | z5499630@ad.unsw.edu.au |
-| Zenghua Wang | z5575408 | Model designer, Model developer                                              | z5575408@ad.unsw.edu.au |
-| Pengfei Pu   | z5463304 | Model designer, Model developer                                              | z5463304@ad.unsw.edu.au |
-| Jingjie Xu   | z5442663 | UI Frontend, Model designer, Model developer                                 | z5442663@ad.unsw.edu.au |
-| Yanping Liu  | z5437486 | UI Backend, System deployment, Model developer                               | z5437486@ad.unsw.edu.au |
+| Boyang Peng  | z5499630 | Scrum master, Model designer, Model developer, UI Backend, System deployment, dockerization | z5499630@ad.unsw.edu.au |
+
 
 
 ## 1. Prerequisites:
