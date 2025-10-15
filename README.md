@@ -2,7 +2,7 @@
 
 | Name         | zID      | Role                                                                         | Email                   |
 | ------------ | -------- | ---------------------------------------------------------------------------- | ----------------------- |
-| Boyang Peng  | z5499630 | Scrum master, Model designer, Model developer, UI Backend, System deployment, dockerization | z5499630@ad.unsw.edu.au |
+| Boyang Peng  | z5499630 | Scrum master, Model designer, Model developer, UI Backend, System deployment, dockerization | z5499630@ad.unsw.edu.au hudsonlyman99@gmail.com |
 
 
 
