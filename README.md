@@ -51,8 +51,6 @@
 │       ├── DCSAU-Net
 │       ├── LViT
 │       ├── UDTransNet
-│       ├── __init__.py
-│       ├── __pycache__
 │       ├── admin.py
 │       ├── apps.py
 │       ├── migrations
